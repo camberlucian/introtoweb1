@@ -1,0 +1,14 @@
+body {
+background-image: url("images/bg.jpeg")
+}
+
+td {
+background-color:#e2e2ce;
+}
+
+.body_container {
+width:70%;
+height:100%;
+align:center;
+background-color:#e2e2ce;
+}
