@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Form</title>
+</head>
+<body>
+<form action="fake.html" method="POST">
+First Name: <input type="text" name="FirstName"/></br>
+Last Name: <input type="text" name="LastName/></br>
+Email: <input type="text" name="UserEmail"/></br>
+Type of License <input type="radio" name="LicenseType" value="Business" checked/>Business <input type="radio" name="LicenseType" value="Personal" />Personal</br>
+Reason:
+<select>
+<option value="SelectReason">Select a Reason</option>
+<option value="SoftwareSupport">Software Support</option>
+<option value="HardwareSupport">Hardware Support</option>
+<option value="infoRequest">Information Request</option>
+</select></br>
+Additional Information <input type="textarea"/></br>
+<input type="checkbox" name="disclaimer" value="check"/> I have read the terms of service </br>
+<input type="submit" value="Send Request"/>
+</form>
+</body>
+</html>
