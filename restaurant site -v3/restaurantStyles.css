@@ -1,0 +1,36 @@
+.footer{
+height:60px;
+
+text-align:center;
+background-color:black;
+width:100%;
+color:white;
+margin; 0px;
+}
+
+.page_header{
+height:80px;
+text-align:center;
+background-color:black;
+width:100%;
+color:white;
+padding:20px;
+}
+
+h1{
+font-family: 'Anton', sans-serif;
+}
+
+th{
+font-size: 1.5em;
+}
+
+table{
+background-color:#f9f7ed;
+}
+
+.content_container{
+background-color:#ede9da;
+height:100%;
+}
+
