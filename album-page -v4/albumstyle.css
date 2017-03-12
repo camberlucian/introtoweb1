@@ -1,0 +1,30 @@
+body {
+background-image: url("images/bg.jpeg")
+}
+
+td {
+background-color:#e2e2ce;
+}
+
+.body_container {
+width:70%;
+height:100%;
+align:center;
+background-color:#e2e2ce;
+}
+
+li {
+font-family: arial;
+font-style: italic;
+}
+
+h1 {
+font-family: 'Diplomata SC', cursive;
+}
+
+.bgimage {
+background-color: #ff0000;
+width:220px;
+height:220px;
+background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg/220px-In_the_aeroplane_over_the_sea_album_cover_copy.jpg");
+}
