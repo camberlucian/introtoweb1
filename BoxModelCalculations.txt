@@ -1,0 +1,11 @@
+Total Height
+150px+40px+2px+20px=212px
+
+Total Width
+400px+40px+2px+20px=462px
+
+Browser Calculated Height
+20px + 1px + 10px + 150px+ 10px + 1px + 20px=212px
+
+Browser Calculated Width
+20px + 1pxt + 10pxt + 400px+ 10px + 1px + 20px=462px
